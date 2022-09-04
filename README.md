@@ -17,10 +17,11 @@ yarn start
 npm start
 
 Пароли для входа находятся в public/users.json
+
 Пользователи:
 user
 admin
 grigory
 
-Пароль везде одинаковый
+Пароль везде одинаковый:
 123
