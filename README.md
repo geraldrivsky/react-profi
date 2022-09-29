@@ -2,6 +2,8 @@
 
 This is an example of my code where I use technologies: React, Redux, Typescript, Ant Design.
 
+The project is a calendar with the ability to assign tasks to other users.
+
 ## Available Scripts
 
 In the project directory, you can run:
