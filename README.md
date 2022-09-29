@@ -15,9 +15,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ## Account logins:
-### `user`
-### `admin`
-### `grigory`
+- ### `user`
+- ### `admin`
+- ### `grigory`
 
 ## Accounts Password:
 ### `123`
