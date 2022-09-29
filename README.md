@@ -20,6 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - ### `grigory`
 
 ## Accounts Password:
-### `123`
+- ### `123`
 
 Logins and Passwords to log in to the calendar are in public/users.json.
